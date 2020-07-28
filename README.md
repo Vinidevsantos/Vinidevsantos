@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinicius Santos from Brazil (🇧🇷). I've been working as Front-End Developer since 2019 . I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
+My name is Vinicius Santos from Brazil (🇧🇷). I've been working as Front-End Developer since 2019 . I'm passionate about open source projects.
 
 In my free time I like to play online Games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
