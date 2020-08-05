@@ -14,4 +14,4 @@ Would you like to find me?
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-[![Instagram built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.instagram.com/vssfoto/)
+[![Instagram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png)](https://www.instagram.com/vssfoto/)
