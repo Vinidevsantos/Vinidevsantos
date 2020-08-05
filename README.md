@@ -10,7 +10,3 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinidevsantos/)](https://www.linkedin.com/in/vinidevsantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-santosvini.rv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosvini.rv@gmail.com)](mailto:santosvini.rv@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/vinidevsantos?style=social)
-
-
-[![Instagram](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/vssfoto/)
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/p/B_LXgD0Hzgx/)
