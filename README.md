@@ -12,4 +12,4 @@ Would you like to find me?
 ![GitHub followers](https://img.shields.io/github/followers/vinidevsantos?style=social)
 
 
-[![Instagram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/vssfoto/)
+[![Instagram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg)](https://www.instagram.com/vssfoto/)
