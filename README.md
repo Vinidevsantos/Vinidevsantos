@@ -12,4 +12,5 @@ Would you like to find me?
 ![GitHub followers](https://img.shields.io/github/followers/vinidevsantos?style=social)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidevsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinidevsantos)](https://github.com/anuraghazra/github-readme-stats)
